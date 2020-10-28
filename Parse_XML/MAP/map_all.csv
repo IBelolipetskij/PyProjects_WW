@@ -1,0 +1,147 @@
+﻿KEY_NAME;ROOT_ELEMENT;KEY_PATH;KEY_REQ
+OGRNIP;/EGRIP/СвИП;/EGRIP/СвИП/@ОГРНИП;
+REC_EFFECTIVE_FROM;/EGRIP/СвИП;/EGRIP/СвИП/@ДатаВып;
+OGRNIPDate;/EGRIP/СвИП;/EGRIP/СвИП/@ДатаОГРНИП;
+INN;/EGRIP/СвИП;/EGRIP/СвИП/@ИННФЛ;
+IPActionCode;/EGRIP/СвИП;/EGRIP/СвИП/@КодВидИП;
+IPActionName;/EGRIP/СвИП;/EGRIP/СвИП/@НаимВидИП;
+FL_EGRIP_Date1;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ГРНИПДатаИспр/@ДатаЗаписи;0
+FL_EGRIP_Date2;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ГРНИПДата/@ДатаЗаписи;0
+FL_GRNIP1;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ГРНИПДатаИспр/@ГРНИП;0
+FL_GRNIP2;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ГРНИПДата/@ГРНИП;0
+FL_Gender_Code;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/@Пол;
+FL_Gender_Name;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/@Пол;
+FL_FIORUS_FirstName;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ФИОРус/@Имя;
+FL_FIORUS_MiddleName;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ФИОРус/@Отчество;
+FL_FIORUS_LastName;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ФИОРус/@Фамилия;
+FL_FIOLAT_FirstName;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ФИОЛат/@Имя;
+FL_FIOLAT_MiddleName;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ФИОЛат/@Отчество;
+FL_FIOLAT_LastName;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ФИОЛат/@Фамилия;
+  FL_BirthDate;/EGRIP/СвИП;/EGRIP/СвИП/СвРожд/@ДатаРожд;
+  FL_BirthPlace;/EGRIP/СвИП;/EGRIP/СвИП/СвРожд/@МестоРожд;
+CIT_EffectiveDate1;/EGRIP/СвИП;/EGRIP/СвИП/СвГражд/ГРНИПДатаИспр/@ДатаЗаписи;0
+CIT_EffectiveDate2;/EGRIP/СвИП;/EGRIP/СвИП/СвГражд/ГРНИПДата/@ДатаЗаписи;0
+CIT_GRNIP1;/EGRIP/СвИП;/EGRIP/СвИП/СвГражд/ГРНИПДатаИспр/@ГРНИП;0
+CIT_GRNIP2;/EGRIP/СвИП;/EGRIP/СвИП/СвГражд/ГРНИПДата/@ГРНИП;0
+CIT_TypeCode;/EGRIP/СвИП;/EGRIP/СвИП/СвГражд/@ВидГражд;
+CIT_TypeName;/EGRIP/СвИП;/EGRIP/СвИП/СвГражд/@ВидГражд;
+CIT_CountryOKSM;/EGRIP/СвИП;/EGRIP/СвИП/СвГражд/@ОКСМ;
+CIT_CountryName;/EGRIP/СвИП;/EGRIP/СвИП/СвГражд/@НаимСтран;
+  IDDoc_SPDUL_TypeCode;/EGRIP/СвИП;/EGRIP/СвИП/СвУдЛичнФЛ/УдЛичнФЛ/@КодВидДок;
+  IDDoc_Name;/EGRIP/СвИП;/EGRIP/СвИП/СвУдЛичнФЛ/УдЛичнФЛ/@НаимДок;
+  IDDoc_SerieAndNumber;/EGRIP/СвИП;/EGRIP/СвИП/СвУдЛичнФЛ/УдЛичнФЛ/@СерНомДок;
+  IDDoc_IssueDate;/EGRIP/СвИП;/EGRIP/СвИП/СвУдЛичнФЛ/УдЛичнФЛ/@ДатаДок;
+  IDDoc_Issuer;/EGRIP/СвИП;/EGRIP/СвИП/СвУдЛичнФЛ/УдЛичнФЛ/@ВыдДок;
+  IDDoc_IssuerCode;/EGRIP/СвИП;/EGRIP/СвИП/СвУдЛичнФЛ/УдЛичнФЛ/@КодВыдДок;
+  CIT_Doc_ExpirationDate;/EGRIP/СвИП;/EGRIP/СвИП/СвПравЖитФЛ/@СрокДействДок;
+  CIT_Doc_SPDUL_TypeCode;/EGRIP/СвИП;/EGRIP/СвИП/СвПравЖитФЛ/ДокПравЖитРФ/@КодВидДок;
+  CIT_Doc_Name;/EGRIP/СвИП;/EGRIP/СвИП/СвПравЖитФЛ/ДокПравЖитРФ/@НаимДок;
+  CIT_Doc_SerieAndNumber;/EGRIP/СвИП;/EGRIP/СвИП/СвПравЖитФЛ/ДокПравЖитРФ/@СерНомДок;
+  CIT_Doc_IssueDate;/EGRIP/СвИП;/EGRIP/СвИП/СвПравЖитФЛ/ДокПравЖитРФ/@ДатаДок;
+  CIT_Doc_Issuer;/EGRIP/СвИП;/EGRIP/СвИП/СвПравЖитФЛ/ДокПравЖитРФ/@ВыдДок;
+  CIT_Doc_IssuerCode;/EGRIP/СвИП;/EGRIP/СвИП/СвПравЖитФЛ/ДокПравЖитРФ/@КодВыдДок;
+LegalStatus_Code;/EGRIP/СвИП;/EGRIP/СвИП/СвСтатус/СвСтатус/@КодСтатус;
+LegalStatus_Name;/EGRIP/СвИП;/EGRIP/СвИП/СвСтатус/СвСтатус/@НаимСтатус;
+LegalStatus_DateFinish;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвСтатус/@ДатаПрекращ;
+LegalStatus_AuthorityCode;/EGRIP/СвИП;/EGRIP/СвИП/СвРегОрг/@КодНО;
+LegalStatus_AuthorityName;/EGRIP/СвИП;/EGRIP/СвИП/СвРегОрг/@НаимНО;
+Registration_RegDate;/EGRIP/СвИП;/EGRIP/СвИП/СвРегИП/@ДатаРег;
+Registration_RegNumber;/EGRIP/СвИП;/EGRIP/СвИП/СвРегИП/@РегНом;
+Registration_AuthorityName;/EGRIP/СвИП;/EGRIP/СвИП/СвРегИП/@НаимРО;
+Farm_OGRN;/EGRIP/СвИП;/EGRIP/СвИП/СвРегИП/СвКФХ/@ОГРН;
+Farm_INN;/EGRIP/СвИП;/EGRIP/СвИП/СвРегИП/СвКФХ/@ИНН;
+Farm_FullName;/EGRIP/СвИП;/EGRIP/СвИП/СвРегИП/СвКФХ/@НаимЮЛПолн;
+Farm_Succeedor_OGRN;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/@ОГРН;
+Farm_Succeedor_INN;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/@ИНН;
+Farm_Succeedor_FullName;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/@НаимЮЛПолн;
+Tax_RegDate;/EGRIP/СвИП;/EGRIP/СвИП/СвУчетНО/@ДатаПостУч;
+Tax_AuthorityCode;/EGRIP/СвИП;/EGRIP/СвИП/СвУчетНО/СвНО/@КодНО;
+Tax_AuthorityName;/EGRIP/СвИП;/EGRIP/СвИП/СвУчетНО/СвНО/@НаимНО;
+Pension_RegNumber;/EGRIP/СвИП;/EGRIP/СвИП/СвРегПФ/@РегНомПФ;
+Pension_RegDate;/EGRIP/СвИП;/EGRIP/СвИП/СвРегПФ/@ДатаРег;
+Pension_AuthorityCode;/EGRIP/СвИП;/EGRIP/СвИП/СвРегПФ/СвОргПФ/@КодПФ;
+Pension_AuthorityName;/EGRIP/СвИП;/EGRIP/СвИП/СвРегПФ/СвОргПФ/@НаимПФ;
+Social_RegNumber;/EGRIP/СвИП;/EGRIP/СвИП/СвРегФСС/@РегНомФСС;
+Social_RegDate;/EGRIP/СвИП;/EGRIP/СвИП/СвРегФСС/@ДатаРег;
+Social_AuthoiryCode;/EGRIP/СвИП;/EGRIP/СвИП/СвРегФСС/СвОргФСС/@КодФСС;
+Social_AuthorityName;/EGRIP/СвИП;/EGRIP/СвИП/СвРегФСС/СвОргФСС/@НаимФСС;
+RegionTypeName;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/Регион/@ТипРегион;
+RegionName;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/Регион/@НаимРегион;
+AreaTypeName;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/Район/@ТипРайон;
+AreaName;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/Район/@НаимРайон;
+CityTypeName;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/Город/@ТипГород;
+CityName;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/Город/@НаимГород;
+SettlementTypeName;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/НаселПункт/@ТипНаселПункт;
+SettlementName;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/НаселПункт/@НаимНаселПункт;
+  StreetTypeName;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/Улица/@ТипУлица;
+  StreetName;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/Улица/@НаимУлица;
+  PostIndex;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/@Индекс;
+  KLADR_Code;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/@КодАдрКладр;
+House;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/@Дом;
+Building1;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/@Корп;0
+Building2;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/@Корпус;0
+Flat;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/@Кварт;
+RegionCode;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/АдресРФ/@КодРегион;
+Status_Code;/EGRIP/СвИП;/EGRIP/СвИП/СвСтатус/СвСтатус/@КодСтатус;
+Status_Name;/EGRIP/СвИП;/EGRIP/СвИП/СвСтатус/СвСтатус/@НаимСтатус;
+Status_EffectiveDate;/EGRIP/СвИП;/EGRIP/СвИП/СвСтатус/ГРНИПДата/@ДатаЗаписи;
+Status_GRNIP;/EGRIP/СвИП;/EGRIP/СвИП/СвСтатус/ГРНИПДата/@ГРНИП;
+Suspend_Way_Code;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвСтатус/@КодСтатус;
+Suspend_Way_Name;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвСтатус/@НаимСтатус;
+Suspend_Date;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвСтатус/@ДатаПрекращ;
+Suspend_EffectiveDate;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/ГРНИПДата/@ДатаЗаписи;
+Suspend_GRNIP;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/ГРНИПДата/@ГРНИП;
+Succeedor_EffectiveDate1;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/ГРНИПДата/@ДатаЗаписи;0
+Succeedor_EffectiveDate2;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/ГРНИПДатаИспр/@ДатаЗаписи;0
+Succeedor_GRNIP1;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/ГРНИПДата/@ГРНИП;0
+Succeedor_GRNIP2;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/ГРНИПДатаИспр/@ГРНИП;0
+Succeedor_OGRN;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/@ОГРН;
+Succeedor_INN;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/@ИНН;
+Succeedor_FullName;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/@НаимЮЛПолн;
+FL_EGRIP_Date_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ГРНИПДата/@ДатаЗаписи;
+FL_EGRIP_Date_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ГРНИПДатаИспр/@ДатаЗаписи;
+FL_GRNIP_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ГРНИПДата/@ГРНИП;
+FL_GRNIP_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвФЛ/ГРНИПДатаИспр/@ГРНИП;
+CIT_EffectiveDate_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвГражд/ГРНИПДата/@ДатаЗаписи;
+CIT_EffectiveDate_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвГражд/ГРНИПДатаИспр/@ДатаЗаписи;
+CIT_GRNIP_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвГражд/ГРНИПДата/@ГРНИП;
+CIT_GRNIP_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвГражд/ГРНИПДатаИспр/@ГРНИП;
+Status_EffectiveDate_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвСтатус/ГРНИПДата/@ДатаЗаписи;
+Status_GRNIP_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвСтатус/ГРНИПДата/@ГРНИП;
+Suspend_EffectiveDate_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/ГРНИПДата/@ДатаЗаписи;
+Suspend_GRNIP_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/ГРНИПДата/@ГРНИП;
+Succeedor_EffectiveDate_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/ГРНИПДата/@ДатаЗаписи;
+Succeedor_EffectiveDate_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/ГРНИПДатаИспр/@ДатаЗаписи;
+Succeedor_GRNIP_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/ГРНИПДата/@ГРНИП;
+Succeedor_GRNIP_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвПрекращ/СвНовЮЛ/ГРНИПДатаИспр/@ГРНИП;
+Address_GRNIP_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/ГРНИПДата/@ГРНИП;
+Address_GRNIP_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/ГРНИПДатаИспр/@ГРНИП;
+Address_EffectiveDate_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/ГРНИПДата/@ДатаЗаписи;
+Address_EffectiveDate_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрМЖ/ГРНИПДатаИспр/@ДатаЗаписи;
+Email;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрЭлПочты/@E-mail;
+Email_GRNIP_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрЭлПочты/ГРНИПДата/@ГРНИП;
+Email_GRNIP_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрЭлПочты/ГРНИПДатаИспр/@ГРНИП;
+Email_EffectiveDate_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрЭлПочты/ГРНИПДата/@ДатаЗаписи;
+Email_EffectiveDate_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвАдрЭлПочты/ГРНИПДатаИспр/@ДатаЗаписи;
+Registration_OGRNIPDate;/EGRIP/СвИП;/EGRIP/СвИП/СвРегИП/@ДатаОГРНИП;
+Registration_OGRNIP;/EGRIP/СвИП;/EGRIP/СвИП/СвРегИП/@ОГРНИП;
+Farm_GRNIP_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвРегИП/СвКФХ/ГРНИПДата/@ГРНИП;
+Farm_GRNIP_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвРегИП/СвКФХ/ГРНИПДатаИспр/@ГРНИП;
+Farm_EffectiveDate_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвРегИП/СвКФХ/ГРНИПДата/@ДатаЗаписи;
+Farm_EffectiveDate_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвРегИП/СвКФХ/ГРНИПДатаИспр/@ДатаЗаписи;
+LegalStatus_Address;/EGRIP/СвИП;/EGRIP/СвИП/СвРегОрг/@АдрРО;
+LegalStatus_GRNIP_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвРегОрг/ГРНИПДата/@ГРНИП;
+LegalStatus_EffectiveDate_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвРегОрг/ГРНИПДата/@ДатаЗаписи;
+Pension_GRNIP_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвРегПФ/ГРНИПДата/@ГРНИП;
+Pension_GRNIP_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвРегПФ/ГРНИПДатаИспр/@ГРНИП;
+Pension_EffectiveDate_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвРегПФ/ГРНИПДата/@ДатаЗаписи;
+Pension_EffectiveDate_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвРегПФ/ГРНИПДатаИспр/@ДатаЗаписи;
+Social_GRNIP_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвРегФСС/ГРНИПДата/@ГРНИП;
+Social_GRNIP_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвРегФСС/ГРНИПДатаИспр/@ГРНИП;
+Social_EffectiveDate_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвРегФСС/ГРНИПДата/@ДатаЗаписи;
+Social_EffectiveDate_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвРегФСС/ГРНИПДатаИспр/@ДатаЗаписи;
+Tax_INN;/EGRIP/СвИП;/EGRIP/СвИП/СвУчетНО/@ИННФЛ;
+Tax_GRNIP_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвУчетНО/ГРНИПДата/@ГРНИП;
+Tax_GRNIP_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвУчетНО/ГРНИПДатаИспр/@ГРНИП;
+Tax_EffectiveDate_Init;/EGRIP/СвИП;/EGRIP/СвИП/СвУчетНО/ГРНИПДата/@ДатаЗаписи;
+Tax_EffectiveDate_Corr;/EGRIP/СвИП;/EGRIP/СвИП/СвУчетНО/ГРНИПДатаИспр/@ДатаЗаписи;
